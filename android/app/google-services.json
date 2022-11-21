@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "264833126375",
+    "firebase_url": "https://cholo---driver-app-default-rtdb.firebaseio.com",
+    "project_id": "cholo---driver-app",
+    "storage_bucket": "cholo---driver-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264833126375:android:b45f8a045bdce646f4f742",
+        "android_client_info": {
+          "package_name": "com.cpro.cholodriverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264833126375-1td759dng5tmjid0gke6khma8c7mmsd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ADnDb11NWbkXxIFXcpbcXMUlZw0BxnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264833126375-1td759dng5tmjid0gke6khma8c7mmsd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
